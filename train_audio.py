@@ -1,7 +1,7 @@
-#!/usr/bin/env python3
-
-# E. Culurciello, L. Mueller, Z. Boztoprak
-# December 2020
+######################################
+# Alp Eren Gençoğlu, Ziya Ata Yazıcı #
+# June 2024                          #
+######################################
 
 import itertools as it
 import os
